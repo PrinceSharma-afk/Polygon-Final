@@ -25,7 +25,7 @@ const config: HardhatUserConfig = {
   },
  networks:{
   amoy: {
-    url: `https://polygon-amoy.g.alchemy.com/v2/GOJjuer6oSObnhl2IfFAzbOcxIdE9K6n`,
+    url: `https://rpc.ankr.com/polygon_amoy`,
     accounts: [process.env.AMOY_PRIVATE_KEY],
   }
 
