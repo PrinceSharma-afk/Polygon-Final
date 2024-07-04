@@ -13,6 +13,8 @@ npm install
 3. Configure Environment:
 Create a .env file and add the following details:
 AMOY_PRIVATE_KEY=your_private_key
+4. Install dotenv:
+npm i dotenv
 
 ## Executing program
 1. Create the Circuit:
