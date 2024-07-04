@@ -7,7 +7,7 @@ The CeShCircuit Verification project involves creating a custom digital circuit 
 ## Getting Started
 Installing
 1. Clone the Repository:
-git clone https://github.com/yourusername/zk-circuit-verification.git
+git clone url of this repository.
 2. Install Dependencies:
 npm install
 3. Configure Environment:
